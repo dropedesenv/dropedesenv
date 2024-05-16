@@ -16,3 +16,4 @@
 |-----------|-----------------|
 |Introdução à Programação e Pensamento Computacional|[Certificado](https://www.dio.me/certificate/2C8E3F93/share)
 |Princípios da Cibersegurança|[Certificado](https://www.dio.me/certificate/55160BFF/share)
+|Github Copilot | [Certificado](https://www.dio.me/certificate/YF5EK38P/share)
