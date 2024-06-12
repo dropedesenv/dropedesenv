@@ -5,7 +5,7 @@
 
 - 🎓 Estou cursando Análise e Desenvolvimento de Sistemas - Faculdade Descomplica
 - 🔧 Técnico em Informática - IEIC RJ
-- 🌱 Atualmente faço estágio em T.I. na área de Redes e Infraestrutura
+- 🌱 Atualmente trabalho com T.I. na área de Redes e Infraestrutura
 - 🍀 Busco por oportunidades na área de desenvolvimento
 - 🌐 [Acesse meu Linkedin](https://www.linkedin.com/in/pedro-costa0706)
 
